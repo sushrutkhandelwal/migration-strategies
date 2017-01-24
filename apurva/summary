@@ -1,0 +1,8 @@
+Mobile Cloud Computing : A comparison of Application Models
+
+The paper discusses about the two extremes of mobile application that are Native (offline) and Web (online). 
+But there is too much of introduced latency for real time responsiveness in Web applications.
+Several migration techniques discussed like Augmented execution of applications, application mobility using mechanism like ISR (Internet 
+Suspend/Resume)or Java -based platform solutions with heterogeneous hardware solution.
+Using cloudlets eliminates the long latency and also increases the responsiveness and interactivity.
+The main problem is to enable the Hadoop framework on mobile devices to distribute the processing and storage tasks. 
