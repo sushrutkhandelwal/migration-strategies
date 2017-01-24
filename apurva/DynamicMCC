@@ -1,0 +1,12 @@
+Dynamic Mobile Cloud Computing: Ad-Hoc and Opportunistic Job Sharing
+
+The paper talks of a model with resource handler, cost handler and job handler as main components. 
+The model deploys a master-slave architecture using bluetooth and J2ME. 
+To achieve speedup in case of equal job sharing the slave nodes are supposed to be of higher performance than master.
+The paper suggests following observations:
+1. Offloading gives better performance than sharing.
+2. RFCOMM is faster than OBEX for larger messages and for buffer size from 256 to 900 MB. 
+3. OBEX has more range. As data length increases the maximum range of transmission 	decreases so does consistency.
+The mentioned architecture has advantages like low radiation , low energy cost and wide spread-ability.
+The disadvantages is that the system won’t be able to switch to different protocols like WiFi or 3G.
+Also the device capabilities needs to be compared before a job is distributed.
