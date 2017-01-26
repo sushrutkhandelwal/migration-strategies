@@ -1,0 +1,14 @@
+Performance Evaluation Criteria:
+• Average response time per unit time
+• Network capacity per second (Mbps)or unit time, the most important factor associated
+with this criterion is network bandwidth ,availability and scalability.
+• The number of I / O commands per second(IOPS)or unit time
+• Average waiting time per unit time
+• Workload(requests) to be serviced per second(Mbps) or a unit of time
+• Throughput (Req / Sec), this criterion will be recovered recovery, buffering capacity and
+processing power factors
+• The average time of processing(exe / sec)
+• Percentage of CPU utilization 
+• The number of requests executed per unit time
+• The number of requests per unit time buffer
+• The number of rejected requests per unit time
