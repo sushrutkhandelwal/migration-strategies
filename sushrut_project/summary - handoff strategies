@@ -1,0 +1,11 @@
+Handoff is the process responsible for continous service in wireless cellular communication systems. It is mechanism that transfers network from one cell to another when there is a change in the coverage area. 
+Handoffs occur when power received (by mobile station) from one base station exceeds that of the current base station.
+Types of handoffs:
+1)Hard handoff: Current base station link disconnects before new is linked.
+2)Soft handoff: New network is established before the current network is diconnected.
+3)horizontal
+4)vertical
+A good handover strategy:
+-minimum drop-outs
+-minimum handovers
+-quick switching
