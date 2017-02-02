@@ -1,0 +1,10 @@
+Following write-up is based: https://goo.gl/tskrBT
+
+Criteria for performance evaluation of SDN for mobile ad-hoc networks:
+1) Packet Delivery Ratio
+2) Overhead/Control Traffic
+3) Scalability
+According to the paper factors like node speed and number of nodes affect these criteria of performance evaluation.
+
+Simulation of SDN based mobile clouds with LTE as control plane (as they are reliable because of long range wireless connectivity) and WiFi as data plane (because of high bandwidth wireless connectivity) have resulted in good packet delivery ratio with acceptable overhead.
+These results suggest that SDN can definitely be helpful in mobile ad-hoc network strategies.
