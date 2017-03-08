@@ -1,0 +1,84 @@
+version 2
+run Wireless20-0-20170304-18:31:50-20593
+attr configname Wireless20
+attr datetime 20170304-18:31:50
+attr experiment Wireless20
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network WirelessA
+attr processid 20593
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.constraintAreaMaxX 600m
+param **.constraintAreaMaxY 700m
+param **.constraintAreaMaxZ 0m
+param **.constraintAreaMinX 0m
+param **.constraintAreaMinY 0m
+param **.constraintAreaMinZ 0m
+param **.hostB.mobility.changeAngleBy "normal(0deg, 30deg)"
+param **.hostB.mobility.changeInterval "truncnormal(2s, 0.5s)"
+param **.hostB.mobility.initFromDisplayString false
+param **.hostB.mobility.speed "truncnormal(20mps, 8mps)"
+param **.hostB.mobility.updateInterval 100ms
+param **.hostB.mobilityType "\"MassMobility\""
+param *.host*.**.bitrate 1Mbps
+param *.host*.networkLayer.arpType "\"GlobalARP\""
+param *.host*.wlan[0].mac.fullDuplex false
+param *.host*.wlan[0].mac.useAck false
+param *.host*.wlan[0].radio.displayCommunicationRange false
+param *.host*.wlan[0].radio.receiver.ignoreInterference true
+param *.host*.wlan[0].radio.transmitter.communicationRange 100m
+param *.host*.wlan[0].typename "\"IdealWirelessNic\""
+param *.visualizer.dataLinkVisualizer.packetNameFilter "\"ping*\""
+param *.visualizer.physicalLinkVisualizer.packetNameFilter "\"ping*\""
+
+vector 6  WirelessA.hostA.wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "queue length, vector"
+vector 21  WirelessA.hostB.wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "queue length, vector"
+vector 36  WirelessA.hostC.wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "queue length, vector"
+vector 12  WirelessA.hostA.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 27  WirelessA.hostB.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 42  WirelessA.hostC.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 13  WirelessA.hostA.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 28  WirelessA.hostB.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 43  WirelessA.hostC.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+6	0	0	0
+12	0	0	0
+12	0	0	2
+13	0	0	1
+21	0	0	0
+27	0	0	0
+27	0	0	2
+28	0	0	1
+36	0	0	0
+42	0	0	0
+42	0	0	2
+43	0	0	1
