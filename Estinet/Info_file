@@ -1,0 +1,14 @@
+Transmitter  ---->    Receiver
+Node 1                Node 3
+Node 10               Node 6
+NOde 7                Node 8
+
+Node 5 is an intermediate node
+Node 2 is the SDN Controller
+
+
+For InThrput.log and OutThrput.log, format is
+time    KB/sec
+
+
+dpr : data plane routing
