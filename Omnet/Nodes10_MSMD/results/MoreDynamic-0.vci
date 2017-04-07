@@ -1,0 +1,193 @@
+file 12028 1490080580                                           
+version 2
+run MoreDynamic-0-20170321-12:32:57-5761
+attr configname MoreDynamic
+attr datetime 20170321-12:32:57
+attr experiment MoreDynamic
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network WirelessB
+attr processid 5761
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.*.recordScalar true
+param **.*.recordVector true
+param **.hasStatus true
+param **.mac.EDCA true
+param **.mac.TXOP2 0
+param **.mac.TXOP3 0
+param **.mac.maxQueueSize 0
+param **.wlan[*].classifierType "\"ExampleQoSClassifier\""
+param **.wlan[*].macType "\"Ieee80211OldMac\""
+param *.configurator.addStaticRoutes false
+param *.configurator.config "xml(\"<config><interface hosts='**' address='10.0.0.x' netmask='255.255.255.0'/><autoroute metric='errorRate'/></config>\")"
+param *.configurator.optimizeRoutes false
+param *.host*.**.bitrate 1Mbps
+param *.host*.forwarding true
+param *.host*.networkLayer.arpType "\"GlobalARP\""
+param *.host*.routingTable.netmaskRoutes "\"\""
+param *.host*.wlan[0].mac.fullDuplex false
+param *.host*.wlan[0].mac.maxQueueSize 10
+param *.host*.wlan[0].mac.useAck false
+param *.host*.wlan[0].macType "\"CsmaCaMac\""
+param *.host*.wlan[0].radio.bandwidth 2MHz
+param *.host*.wlan[0].radio.carrierFrequency 2GHz
+param *.host*.wlan[0].radio.displayCommunicationRange false
+param *.host*.wlan[0].radio.receiver.energyDetection -85dBm
+param *.host*.wlan[0].radio.receiver.ignoreInterference true
+param *.host*.wlan[0].radio.receiver.rssiThreshold -50dBm
+param *.host*.wlan[0].radio.receiver.sensitivity -85dBm
+param *.host*.wlan[0].radio.receiver.snirThreshold 4dB
+param *.host*.wlan[0].radio.transmitter.communicationRange 100m
+param *.host*.wlan[0].radio.transmitter.headerBitLength 0b
+param *.host*.wlan[0].radio.transmitter.interferenceRange 500m
+param *.host*.wlan[0].radio.transmitter.power 1.4mW
+param *.host*.wlan[0].radio.transmitter.preambleDuration 10us
+param *.host*.wlan[0].radioType "\"IdealRadio\""
+param *.host*.wlan[0].typename "\"IdealWirelessNic\""
+param *.hostA.wlan[0].radio.displayInterferenceRange true
+param *.hostR1.wlan[0].radio.displayCommunicationRange true
+param *.hostR2.mobility.angle 180deg
+param *.hostR2.mobility.speed 100mps
+param *.hostR2.mobilityType "\"LinearMobility\""
+param *.hostR2.numUdpApps 1
+param *.hostR2.udpApp[0].localPort 5000
+param *.hostR2.udpApp[0].typename "\"UDPSink\""
+param *.hostR2.wlan[0].radio.displayCommunicationRange true
+param *.hostR3.numUdpApps 1
+param *.hostR3.udpApp[0].destAddresses "\"hostR2\""
+param *.hostR3.udpApp[0].destPort 5000
+param *.hostR3.udpApp[0].messageLength 1B
+param *.hostR3.udpApp[0].packetName "\"UDPData\""
+param *.hostR3.udpApp[0].sendInterval exponential(12ms)
+param *.hostR3.udpApp[0].typename "\"UDPBasicApp\""
+param *.hostR3.wlan[0].radio.displayCommunicationRange true
+param *.hostType "\"AODVRouter\""
+param *.mediumType "\"APSKScalarRadioMedium\""
+param *.powerControlManager.powerControlEvents "xmldoc(\"powerControlEvents.xml\")"
+param *.radioMedium.backgroundNoise.power -90dBm
+param *.radioMedium.mediumLimitCache.carrierFrequency 2GHz
+param *.scenarioManager.script "xmldoc(\"moreDynamic.xml\")"
+param *.visualizer.dataLinkVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.mediumVisualizer.displaySignals true
+param *.visualizer.mediumVisualizer.signalPropagationUpdateInterval 100ns
+param *.visualizer.mobilityVisualizer.displayMovementTrail true
+param *.visualizer.networkRouteVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.physicalLinkVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.sceneVisualizer.descriptionFigure "\"title\""
+
+vector 3  WirelessB.hostA.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 9  WirelessB.hostB.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 15  WirelessB.hostC.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 21  WirelessB.hostR1.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 35  WirelessB.hostR2.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 50  WirelessB.hostR3.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 4  WirelessB.hostA.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 10  WirelessB.hostB.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 16  WirelessB.hostC.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 22  WirelessB.hostR1.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 36  WirelessB.hostR2.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 51  WirelessB.hostR3.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 39  WirelessB.hostR3.udpApp[0]  sentPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  sentPk
+attr title  "packets sent, vector(packetBytes)"
+vector 42  WirelessB.hostR3.udp  sentPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  sentPk
+attr title  "packets sent, vector(packetBytes)"
+vector 52  WirelessB.hostR3.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+vector 37  WirelessB.hostR2.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+vector 28  WirelessB.hostR2.udp  rcvdPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  rcvdPk
+attr title  "packets received, vector(packetBytes)"
+vector 29  WirelessB.hostR2.udp  passedUpPk:vector(count)  ETV
+attr interpolationmode  none
+attr title  "packets passed up, vector(count)"
+vector 24  WirelessB.hostR2.udpApp[0]  rcvdPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  rcvdPk
+attr title  "packets received, vector(packetBytes)"
+vector 25  WirelessB.hostR2.udpApp[0]  endToEndDelay:vector  ETV
+attr interpolationmode  none
+attr source  messageAge(rcvdPk)
+attr title  "end-to-end delay, vector"
+attr unit  s
+vector 26  WirelessB.hostR2.udpApp[0]  rcvdPkSeqNo:vector  ETV
+attr interpolationmode  none
+attr source  appPkSeqNo(rcvdPk)
+attr title  "received packet sequence number, vector"
+vector 23  WirelessB.hostR1.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+3	7510 16 0 0 0 0 2 0 2 2 4
+4	7526 480 0 250 0 0.059446518122 22 1 3 34 60
+9	8006 16 0 0 0 0 2 0 2 2 4
+10	8022 9 0 0 0 0 1 1 1 1 1
+15	8031 18 0 0 0 0 2 0 2 2 4
+16	8049 247 0 235 0 0.044334315754 11 1 3 17 31
+21	8296 66 0 134 0 0.014844792056 4 0 3 7 17
+22	8362 505 0 248 0 0.059446086128 22 0 3 41 101
+23	8867 96 127 134 0.014354792056 0.014844792056 4 0 2 4 6
+24	8963 72 104 219 0.012313677763 0.044249396595 3 1 1 3 3
+25	9035 110 104 219 0.012313677763 0.044249396595 3 0.00035654324 0.006510452504 0.00756353496 4.2998281768255e-05
+26	9145 72 104 219 0.012313677763 0.044249396595 3 0 2 3 5
+28	9217 72 103 218 0.012313677763 0.044249396595 3 9 9 27 243
+29	9289 72 103 218 0.012313677763 0.044249396595 3 1 3 6 14
+35	9361 208 0 230 0 0.044333396595 10 0 3 22 56
+36	9569 506 0 249 0 0.059446132351 22 0 3 32 74
+37	10075 380 55 230 0.011014605023 0.044333396595 16 0 2 16 24
+39	10455 94 24 240 0.005803225259 0.059195585782 4 1 1 4 4
+42	10549 94 26 241 0.005803225259 0.059195585782 4 9 9 36 324
+50	10643 298 0 253 0 0.059751585782 14 0 3 32 82
+51	10941 527 0 253 0 0.059751585782 23 0 3 27 57
+52	11468 560 32 253 0.010374068891 0.059751585782 24 0 2 24 36
