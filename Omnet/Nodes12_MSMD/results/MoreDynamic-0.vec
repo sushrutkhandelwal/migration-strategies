@@ -1,0 +1,372 @@
+version 2
+run MoreDynamic-0-20170321-12:32:57-5761
+attr configname MoreDynamic
+attr datetime 20170321-12:32:57
+attr experiment MoreDynamic
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network WirelessB
+attr processid 5761
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.*.recordScalar true
+param **.*.recordVector true
+param **.hasStatus true
+param **.mac.EDCA true
+param **.mac.TXOP2 0
+param **.mac.TXOP3 0
+param **.mac.maxQueueSize 0
+param **.wlan[*].classifierType "\"ExampleQoSClassifier\""
+param **.wlan[*].macType "\"Ieee80211OldMac\""
+param *.configurator.addStaticRoutes false
+param *.configurator.config "xml(\"<config><interface hosts='**' address='10.0.0.x' netmask='255.255.255.0'/><autoroute metric='errorRate'/></config>\")"
+param *.configurator.optimizeRoutes false
+param *.host*.**.bitrate 1Mbps
+param *.host*.forwarding true
+param *.host*.networkLayer.arpType "\"GlobalARP\""
+param *.host*.routingTable.netmaskRoutes "\"\""
+param *.host*.wlan[0].mac.fullDuplex false
+param *.host*.wlan[0].mac.maxQueueSize 10
+param *.host*.wlan[0].mac.useAck false
+param *.host*.wlan[0].macType "\"CsmaCaMac\""
+param *.host*.wlan[0].radio.bandwidth 2MHz
+param *.host*.wlan[0].radio.carrierFrequency 2GHz
+param *.host*.wlan[0].radio.displayCommunicationRange false
+param *.host*.wlan[0].radio.receiver.energyDetection -85dBm
+param *.host*.wlan[0].radio.receiver.ignoreInterference true
+param *.host*.wlan[0].radio.receiver.rssiThreshold -50dBm
+param *.host*.wlan[0].radio.receiver.sensitivity -85dBm
+param *.host*.wlan[0].radio.receiver.snirThreshold 4dB
+param *.host*.wlan[0].radio.transmitter.communicationRange 100m
+param *.host*.wlan[0].radio.transmitter.headerBitLength 0b
+param *.host*.wlan[0].radio.transmitter.interferenceRange 500m
+param *.host*.wlan[0].radio.transmitter.power 1.4mW
+param *.host*.wlan[0].radio.transmitter.preambleDuration 10us
+param *.host*.wlan[0].radioType "\"IdealRadio\""
+param *.host*.wlan[0].typename "\"IdealWirelessNic\""
+param *.hostA.wlan[0].radio.displayInterferenceRange true
+param *.hostR1.wlan[0].radio.displayCommunicationRange true
+param *.hostR2.mobility.angle 180deg
+param *.hostR2.mobility.speed 100mps
+param *.hostR2.mobilityType "\"LinearMobility\""
+param *.hostR2.numUdpApps 1
+param *.hostR2.udpApp[0].localPort 5000
+param *.hostR2.udpApp[0].typename "\"UDPSink\""
+param *.hostR2.wlan[0].radio.displayCommunicationRange true
+param *.hostR3.numUdpApps 1
+param *.hostR3.udpApp[0].destAddresses "\"hostR2\""
+param *.hostR3.udpApp[0].destPort 5000
+param *.hostR3.udpApp[0].messageLength 1B
+param *.hostR3.udpApp[0].packetName "\"UDPData\""
+param *.hostR3.udpApp[0].sendInterval exponential(12ms)
+param *.hostR3.udpApp[0].typename "\"UDPBasicApp\""
+param *.hostR3.wlan[0].radio.displayCommunicationRange true
+param *.hostType "\"AODVRouter\""
+param *.mediumType "\"APSKScalarRadioMedium\""
+param *.powerControlManager.powerControlEvents "xmldoc(\"powerControlEvents.xml\")"
+param *.radioMedium.backgroundNoise.power -90dBm
+param *.radioMedium.mediumLimitCache.carrierFrequency 2GHz
+param *.scenarioManager.script "xmldoc(\"moreDynamic.xml\")"
+param *.visualizer.dataLinkVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.mediumVisualizer.displaySignals true
+param *.visualizer.mediumVisualizer.signalPropagationUpdateInterval 100ns
+param *.visualizer.mobilityVisualizer.displayMovementTrail true
+param *.visualizer.networkRouteVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.physicalLinkVisualizer.packetNameFilter "\"UDPData*\""
+param *.visualizer.sceneVisualizer.descriptionFigure "\"title\""
+
+vector 3  WirelessB.hostA.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 9  WirelessB.hostB.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 15  WirelessB.hostC.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 21  WirelessB.hostR1.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 35  WirelessB.hostR2.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 50  WirelessB.hostR3.wlan[0].radio  radioMode:vector  ETV
+attr interpolationmode  sample-hold
+attr source  radioModeChanged
+attr title  "Radio mode, vector"
+vector 4  WirelessB.hostA.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 10  WirelessB.hostB.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 16  WirelessB.hostC.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 22  WirelessB.hostR1.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 36  WirelessB.hostR2.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 51  WirelessB.hostR3.wlan[0].radio  receptionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  receptionStateChanged
+attr title  "Radio reception state, vector"
+vector 39  WirelessB.hostR3.udpApp[0]  sentPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  sentPk
+attr title  "packets sent, vector(packetBytes)"
+vector 42  WirelessB.hostR3.udp  sentPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  sentPk
+attr title  "packets sent, vector(packetBytes)"
+vector 52  WirelessB.hostR3.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+vector 37  WirelessB.hostR2.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+vector 28  WirelessB.hostR2.udp  rcvdPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  rcvdPk
+attr title  "packets received, vector(packetBytes)"
+vector 29  WirelessB.hostR2.udp  passedUpPk:vector(count)  ETV
+attr interpolationmode  none
+attr title  "packets passed up, vector(count)"
+vector 24  WirelessB.hostR2.udpApp[0]  rcvdPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  rcvdPk
+attr title  "packets received, vector(packetBytes)"
+vector 25  WirelessB.hostR2.udpApp[0]  endToEndDelay:vector  ETV
+attr interpolationmode  none
+attr source  messageAge(rcvdPk)
+attr title  "end-to-end delay, vector"
+attr unit  s
+vector 26  WirelessB.hostR2.udpApp[0]  rcvdPkSeqNo:vector  ETV
+attr interpolationmode  none
+attr source  appPkSeqNo(rcvdPk)
+attr title  "received packet sequence number, vector"
+vector 23  WirelessB.hostR1.wlan[0].radio  transmissionState:vector  ETV
+attr interpolationmode  sample-hold
+attr source  transmissionStateChanged
+attr title  "Radio transmission state, vector"
+3	0	0	0
+3	0	0	2
+4	0	0	1
+4	36	0.010375001231	2
+4	51	0.010865001231	1
+4	60	0.011015575636	2
+4	72	0.011473575636	1
+4	78	0.011484073629	2
+4	86	0.011558073629	1
+4	94	0.012008073629	2
+4	105	0.012314073629	1
+4	113	0.012324648153	2
+4	121	0.012398648153	1
+4	131	0.014355326019	3
+4	143	0.014845326019	1
+4	168	0.02502091101	2
+4	179	0.02532691101	1
+4	187	0.025337486063	2
+4	195	0.025411486063	1
+4	209	0.043943785695	2
+4	220	0.044249785695	1
+4	228	0.04426036158	2
+4	236	0.04433436158	1
+4	250	0.059446518122	2
+9	0	0	0
+9	0	0	2
+10	0	0	1
+15	0	0	0
+15	0	0	2
+16	0	0	1
+16	59	0.011015534078	2
+16	71	0.011473534078	1
+16	112	0.012324606428	2
+16	120	0.012398606428	1
+16	132	0.014355459184	3
+16	147	0.014845459184	1
+16	186	0.025337442675	2
+16	194	0.025411442675	1
+16	227	0.044260315754	2
+16	235	0.044334315754	1
+21	0	0	0
+21	0	0	2
+21	127	0.014354792056	3
+21	134	0.014844792056	2
+22	0	0	1
+22	34	0.010374569237	3
+22	40	0.010864569237	1
+22	57	0.011015052746	3
+22	63	0.011473052746	1
+22	76	0.011483641635	3
+22	82	0.011557641635	1
+22	92	0.012007641635	3
+22	98	0.012313641635	1
+22	110	0.012324125327	3
+22	116	0.012398125327	1
+22	127	0.014354792056	0
+22	134	0.014844792056	1
+22	166	0.025020479016	3
+22	172	0.025326479016	1
+22	184	0.025336963891	3
+22	190	0.025410963891	1
+22	207	0.043943353701	3
+22	213	0.044249353701	1
+22	225	0.044259840398	3
+22	231	0.044333840398	1
+22	248	0.059446086128	3
+23	127	0.014354792056	1
+23	128	0.014354792056	2
+23	134	0.014844792056	1
+23	134	0.014844792056	0
+24	104	0.012313677763	1
+24	178	0.025326517886	1
+24	219	0.044249396595	1
+25	104	0.012313677763	0.006510452504
+25	178	0.025326517886	0.000696539216
+25	219	0.044249396595	0.00035654324
+26	104	0.012313677763	0
+26	178	0.025326517886	1
+26	219	0.044249396595	2
+28	103	0.012313677763	9
+28	177	0.025326517886	9
+28	218	0.044249396595	9
+29	103	0.012313677763	1
+29	177	0.025326517886	2
+29	218	0.044249396595	3
+35	0	0	0
+35	0	0	2
+35	55	0.011014605023	3
+35	62	0.011472605023	2
+35	108	0.012323677763	3
+35	115	0.012397677763	2
+35	182	0.025336517886	3
+35	189	0.025410517886	2
+35	223	0.044259396595	3
+35	230	0.044333396595	2
+36	0	0	1
+36	35	0.010374605023	3
+36	44	0.010864605023	1
+36	55	0.011014605023	0
+36	62	0.011472605023	1
+36	77	0.011483677653	3
+36	84	0.011557677653	1
+36	93	0.012007677763	3
+36	100	0.012313677763	1
+36	108	0.012323677763	0
+36	115	0.012397677763	1
+36	129	0.014355239374	3
+36	135	0.014845239374	1
+36	167	0.025020517886	3
+36	174	0.025326517886	1
+36	182	0.025336517886	0
+36	189	0.025410517886	1
+36	208	0.043943396595	3
+36	215	0.044249396595	1
+36	223	0.044259396595	0
+36	230	0.044333396595	1
+36	249	0.059446132351	3
+37	55	0.011014605023	1
+37	56	0.011014605023	2
+37	62	0.011472605023	1
+37	62	0.011472605023	0
+37	108	0.012323677763	1
+37	109	0.012323677763	2
+37	115	0.012397677763	1
+37	115	0.012397677763	0
+37	182	0.025336517886	1
+37	183	0.025336517886	2
+37	189	0.025410517886	1
+37	189	0.025410517886	0
+37	223	0.044259396595	1
+37	224	0.044259396595	2
+37	230	0.044333396595	1
+37	230	0.044333396595	0
+39	24	0.005803225259	1
+39	157	0.02462997867	1
+39	199	0.043892853355	1
+39	240	0.059195585782	1
+42	26	0.005803225259	9
+42	158	0.02462997867	9
+42	200	0.043892853355	9
+42	241	0.059195585782	9
+50	0	0	0
+50	0	0	2
+50	32	0.010374068891	3
+50	39	0.010864068891	2
+50	74	0.011483141289	3
+50	81	0.011557141289	2
+50	90	0.012007141289	3
+50	97	0.012313141289	2
+50	164	0.02501997867	3
+50	171	0.02532597867	2
+50	205	0.043942853355	3
+50	212	0.044248853355	2
+50	246	0.059445585782	3
+50	253	0.059751585782	2
+51	0	0	1
+51	32	0.010374068891	0
+51	39	0.010864068891	1
+51	58	0.011015141289	3
+51	65	0.011473141289	1
+51	74	0.011483141289	0
+51	81	0.011557141289	1
+51	90	0.012007141289	0
+51	97	0.012313141289	1
+51	111	0.012324214304	3
+51	118	0.012398214304	1
+51	130	0.014355292402	3
+51	139	0.014845292402	1
+51	164	0.02501997867	0
+51	171	0.02532597867	1
+51	185	0.025337057169	3
+51	192	0.025411057169	1
+51	205	0.043942853355	0
+51	212	0.044248853355	1
+51	226	0.044259939903	3
+51	233	0.044333939903	1
+51	246	0.059445585782	0
+51	253	0.059751585782	1
+52	32	0.010374068891	1
+52	33	0.010374068891	2
+52	39	0.010864068891	1
+52	39	0.010864068891	0
+52	74	0.011483141289	1
+52	75	0.011483141289	2
+52	81	0.011557141289	1
+52	81	0.011557141289	0
+52	90	0.012007141289	1
+52	91	0.012007141289	2
+52	97	0.012313141289	1
+52	97	0.012313141289	0
+52	164	0.02501997867	1
+52	165	0.02501997867	2
+52	171	0.02532597867	1
+52	171	0.02532597867	0
+52	205	0.043942853355	1
+52	206	0.043942853355	2
+52	212	0.044248853355	1
+52	212	0.044248853355	0
+52	246	0.059445585782	1
+52	247	0.059445585782	2
+52	253	0.059751585782	1
+52	253	0.059751585782	0
