@@ -1,0 +1,1893 @@
+Time: 2.010867 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+
+Time: 2.010967 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 2.016200 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 2.021067 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+
+Time: 2.021167 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 2.040267 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+
+Time: 2.040367 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 2.172056 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 4.020256 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+
+Time: 4.020356 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 4.040456 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 4.040556 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 4.041500 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 4.080656 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 4.080756 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 4.169564 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 4.170664 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 4.170764 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 6.010664 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 6.010764 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 6.050864 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 6.050964 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 6.081900 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 6.091064 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 6.091164 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 6.140264 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 6.140364 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 6.190464 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 6.190564 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 8.020864 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 8.020964 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 8.101064 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 8.101164 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 8.122400 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 8.168796 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 8.168896 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 8.168996 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 8.169096 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 8.169196 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 9.256270 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 10.030570 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 10.030670 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 10.080770 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 10.080870 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 10.166800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 10.200970 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 10.201070 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 10.220170 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 10.220270 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 12.030770 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 12.030870 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 12.101070 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 12.101170 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 12.178200 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 12.260570 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 12.819063 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 12.819163 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 12.819263 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 12.819363 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 14.030463 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 14.030563 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 14.110663 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 14.110763 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 14.210863 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 14.210963 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 14.232700 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 14.331063 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			7		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 14.331163 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 16.289100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 18.322500 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 18.536140 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 18.537240 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.537340 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.537440 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.537540 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.537640 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.537740 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.537840 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.537940 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.538040 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.538140 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.539240 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.539340 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.539440 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.944925 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.945025 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.945125 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.945225 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 18.945325 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 18.945425 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 20.324800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 20.867703 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 20.868803 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 20.868903 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 20.869003 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 20.869103 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 20.869203 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 20.869303 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 20.870403 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 20.870503 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 22.172298 sec
+Send to Nid: 12
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 22.173398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 22.173498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 22.358100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 22.370598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 22.370698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 22.480998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 22.481098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 24.150598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 24.150698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 24.340998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 24.341098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 24.383500 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 24.510198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+ 		 	 	 		 	 			1		1
+
+Time: 24.510298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 25.040398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 25.040498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 26.160798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 26.160898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 26.370998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 26.371098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 26.428800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 26.550398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 26.550498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 28.160998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 28.161098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 28.380398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 28.380498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 28.469100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 28.600798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 28.600898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 30.410598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 30.410698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 30.491300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 30.670998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 30.671098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 32.190198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 32.190298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 32.410398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 32.410498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 32.537600 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 32.680598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 32.680698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 34.190998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 34.191098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 34.460198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 34.460298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 34.586900 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 34.680398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 34.680498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 36.200198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 36.200298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 36.606100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 36.760598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 36.760698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 38.210998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 38.211098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 38.500398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 38.500498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 38.649400 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 38.780198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 38.780298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 40.530798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 40.530898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 40.696600 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 40.820398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 40.820498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 42.240598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 42.240698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 42.540798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 42.540898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 42.751900 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 42.890198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 42.890298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 44.796000 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 46.260798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 46.260898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 46.801100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 46.920998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			2		1
+
+Time: 46.921098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 47.540198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			2		1
+
+Time: 47.540298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 48.280998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			2		1
+
+Time: 48.281098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 48.851300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 50.300598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		8		1
+ 		 	 	 		 	 			2		1
+
+Time: 50.300698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 50.895400 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 51.920998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+
+Time: 51.921098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 52.300598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+
+Time: 52.300698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 52.929500 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 53.050798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 53.050898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 54.310198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 54.310298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 54.937700 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 56.330598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 56.330698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 56.987800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 58.050198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+
+Time: 58.050298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 58.340598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+
+Time: 58.340698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 59.029900 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 60.350198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+
+Time: 60.350298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 61.081000 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 61.210598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 61.210698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 62.360998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 62.361098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 63.088200 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 63.240398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 63.240498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 64.380798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 64.380898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 65.136400 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 65.300998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 65.301098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 66.390398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 66.390498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 67.145600 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 67.330598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 67.330698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 68.400998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 68.401098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 69.202800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 69.380598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 69.380698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 70.400198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 70.400298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 70.850398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 70.850498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 71.228100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 72.410198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 72.410298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 72.870798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 72.870898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 73.258300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 73.440398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 73.440498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 74.430598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 74.430698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 74.870798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 74.870898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 75.270600 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 75.490998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 75.491098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 76.430198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 76.430298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 76.880398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 76.880498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 77.300900 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 77.510598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 77.510698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 78.440798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 78.440898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 79.348100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 80.460398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 80.460498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 80.950998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 80.951098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 81.364300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 82.510998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+
+Time: 82.511098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 83.020798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+
+Time: 83.020898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 83.420400 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 83.570998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			8		1
+
+Time: 83.571098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 84.460398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			8		1
+
+Time: 84.460498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 85.449600 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 85.580598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			8		1
+
+Time: 85.580698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 86.480598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			8		1
+
+Time: 86.480698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 87.450800 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 87.630998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			5		1
+ 		 	 	 		 	 			8		1
+
+Time: 87.631098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 88.020198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 88.020298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 88.500598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+
+Time: 88.500698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 89.090798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 89.090898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 89.462100 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 89.660998 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 89.661098 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 91.120398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 91.120498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 91.503300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 91.700598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 91.700698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 92.510798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 92.510898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 93.549500 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 94.510198 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 94.510298 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 95.160598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 95.160698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 95.566700 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 95.830798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 95.830898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 96.520398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 96.520498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 97.160598 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 97.160698 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 97.595000 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 97.840798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 97.840898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 98.520398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 98.520498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 99.290398 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 99.290498 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
+Time: 99.598300 sec
+Broadcast
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	6	1
+
+Time: 99.930798 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		New	6		2		1
+ 		 	 	 		 	 			8		1
+ 		 	 	 		 	 			5		1
+
+Time: 99.930898 sec
+Send to Nid: 12
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	6	1		Finish	 		 		 
+
