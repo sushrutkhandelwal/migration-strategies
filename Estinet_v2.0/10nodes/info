@@ -1,0 +1,8 @@
+Mobility : 4,2,9
+Source : 1,2,6
+Destination : 4,5,9
+Pairs : 1-4, 2-5, 6-9
+
+Controller : 10
+
+Total downtime : 42 sec
