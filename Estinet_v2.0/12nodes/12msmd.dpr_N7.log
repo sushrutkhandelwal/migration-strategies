@@ -1,0 +1,139 @@
+#Node[7]'s Routing Table at time:   1.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:   6.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  11.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  16.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  21.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  26.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  31.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:  36.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[11]:1.0.2.11, Next_Hop[11]:1.0.2.11
+Total routing rules: 8
+#Node[7]'s Routing Table at time:  41.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  46.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  51.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  56.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  61.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  66.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[8]:1.0.2.8
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[5]:1.0.2.5
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  71.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[5]:1.0.2.5
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  76.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[4]:1.0.2.4
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  81.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[4]:1.0.2.4
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  86.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[4]:1.0.2.4
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  91.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[4]:1.0.2.4
+Total routing rules: 7
+#Node[7]'s Routing Table at time:  96.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[2]:1.0.2.2, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[3]:1.0.2.3
+Src_Node[7]:1.0.2.7 -> Dst_Node[4]:1.0.2.4, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[5]:1.0.2.5, Next_Hop[5]:1.0.2.5
+Src_Node[7]:1.0.2.7 -> Dst_Node[6]:1.0.2.6, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[8]:1.0.2.8, Next_Hop[4]:1.0.2.4
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[4]:1.0.2.4
+Total routing rules: 7
