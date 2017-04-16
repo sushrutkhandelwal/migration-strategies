@@ -1,0 +1,29 @@
+INFO (ConstantSpeedPropagation)WirelessB.radioMedium.propagation: WirelessB.radioMedium.propagation: Radio signal arrival computation count = 5292
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Transmission count = 588
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Radio frame send count = 5292
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Reception computation count = 5292
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Interference computation count = 15535
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Reception decision computation count = 1285
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Listening decision computation count = 9135
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Reception cache hit = 81.0193 %
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Interference cache hit = 66.6667 %
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Noise cache hit = 0 %
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: SNIR cache hit = 50 %
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Reception decision cache hit = 50 %
+INFO (APSKScalarRadioMedium)WirelessB.radioMedium: WirelessB.radioMedium: Reception result cache hit = 0 %
+INFO (PcapRecorder)WirelessB.hostA.pcapRecorder[0]: WirelessB.hostA.pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPBasicApp)WirelessB.hostA.udpApp[0]: WirelessB.hostA.udpApp[0]: WirelessB.hostA.udpApp[0]: sent 50 packets
+INFO (PcapRecorder)WirelessB.hostB.pcapRecorder[0]: WirelessB.hostB.pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPSink)WirelessB.hostB.udpApp[0]: WirelessB.hostB.udpApp[0]: WirelessB.hostB.udpApp[0]: received 28 packets
+INFO (PcapRecorder)WirelessB.host[0].pcapRecorder[0]: WirelessB.host[0].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPBasicApp)WirelessB.host[0].udpApp[0]: WirelessB.host[0].udpApp[0]: WirelessB.host[0].udpApp[0]: sent 50 packets
+INFO (PcapRecorder)WirelessB.host[1].pcapRecorder[0]: WirelessB.host[1].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (PcapRecorder)WirelessB.host[2].pcapRecorder[0]: WirelessB.host[2].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPBasicApp)WirelessB.host[2].udpApp[0]: WirelessB.host[2].udpApp[0]: WirelessB.host[2].udpApp[0]: sent 50 packets
+INFO (PcapRecorder)WirelessB.host[3].pcapRecorder[0]: WirelessB.host[3].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPSink)WirelessB.host[3].udpApp[0]: WirelessB.host[3].udpApp[0]: WirelessB.host[3].udpApp[0]: received 11 packets
+INFO (PcapRecorder)WirelessB.host[4].pcapRecorder[0]: WirelessB.host[4].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (PcapRecorder)WirelessB.host[5].pcapRecorder[0]: WirelessB.host[5].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (UDPSink)WirelessB.host[5].udpApp[0]: WirelessB.host[5].udpApp[0]: WirelessB.host[5].udpApp[0]: received 10 packets
+INFO (PcapRecorder)WirelessB.host[6].pcapRecorder[0]: WirelessB.host[6].pcapRecorder[0]: [100.000] pcapRecorder finished
+INFO (PcapRecorder)WirelessB.host[7].pcapRecorder[0]: WirelessB.host[7].pcapRecorder[0]: [100.000] pcapRecorder finished
