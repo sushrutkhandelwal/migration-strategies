@@ -1,0 +1,420 @@
+---- 20170304-18:35:02 ---------------------------------------------------------
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4edc2b0'
+
+
+
+---- 20170304-19:12:17 ---------------------------------------------------------
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fd74d0'
+
+
+
+---- 20170304-19:22:19 ---------------------------------------------------------
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4283f90'
+
+
+
+---- 20170304-19:25:12 ---------------------------------------------------------
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
+Tcl error: tkutil.cc#524: floating point value is Not a Number
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'ellipse' 'nan -nan' '-matrix' '{0.455166 0} {0 0.455166} {182.066 91.0332}' '-stroke' '#808080' '-strokewidth' '2.197000' '-strokeopacity' '1.000000' '-strokedasharray' '' '-fill' '' '-rx' 'nan' '-ry' 'nan' '-tags' 'fig f28 ptr0x4fc0970'
+
+
+
