@@ -1,0 +1,876 @@
+Time: 2.019000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 2.025100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 2.045200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	8	1
+
+Time: 2.057300 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	2	1
+
+Time: 2.090315 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		2		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		10		10
+
+Time: 2.091415 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 2.293871 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		10		10
+
+Time: 2.297971 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 2.777071 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		10		10
+
+Time: 2.778171 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 3.014271 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		10		10
+
+Time: 3.015371 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 3.070471 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		10		10
+
+Time: 3.072571 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 3.156671 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		10
+ 		 	 	 		 		 		3		9
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 3.157771 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 4.045400 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 6.085500 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 8.079600 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 8.141700 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 10.164800 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 10.231899 sec
+Packet_Type		Length	Src_Nid	src_port	Option	Center_nid	Neighbor_nid	Data_plane_port
+NeighborUpdate		544	10	1		Finish	 		 		 
+
+Time: 10.234900 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 10.235999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		10
+ 		 	 	 		 		 		2		2
+ 		 	 	 		 		 		3		9
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		6		8
+ 		 	 	 		 		 		7		2
+ 		 	 	 		 		 		8		8
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 10.238099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 10.303399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		4
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		3		9
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 10.304499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 11.080599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		4
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		3		9
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 11.081699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 11.129999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		4
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		3		9
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 11.131099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 11.160199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		4
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		10		10
+
+Time: 11.161299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 12.086000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 12.228100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 12.325200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 12.932999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		7
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		10		10
+
+Time: 12.936099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.104199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		1		7
+ 		 	 	 		 		 		2		7
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		10		10
+
+Time: 14.107300 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 14.108299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.131599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		10		10
+
+Time: 14.132699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.137400 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 14.162999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		10
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		10
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		10
+ 		 	 	 		 		 		10		10
+
+Time: 14.164099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.268500 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 14.304399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		3
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 14.305600 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 14.307499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.325799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		3
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 14.328899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.349999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 14.355099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 14.365700 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 15.421399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 15.422499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 15.440599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 15.443699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 15.455799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 15.457899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 15.504999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 15.510099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 15.522199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 15.523299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 16.135800 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 16.155900 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 16.235799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 16.238899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 16.330000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 16.352199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 16.354299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 16.372100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 16.399200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 17.253799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 17.254899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 17.278999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 17.280099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 17.296199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 17.297299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 18.169300 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 18.340400 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 18.403500 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 18.499600 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 18.731199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 18.733299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 19.162399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 19.163499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 19.325599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		6		9
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 19.326699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 20.169700 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 20.175800 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 20.373900 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 20.476000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 20.522100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	9	1
+
+Time: 21.474799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 21.480899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 22.192200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 22.194300 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 22.412400 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 22.570500 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 24.218600 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 24.219700 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 24.449800 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 24.625900 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 25.567799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		9
+ 		 	 	 		 		 		9		9
+ 		 	 	 		 		 		10		10
+
+Time: 25.568899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 25.585999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		10		10
+
+Time: 25.588099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 26.242000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 26.249100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	4	1
+
+Time: 26.473200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	7	1
+
+Time: 26.647300 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 28.253400 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 28.653500 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 28.868399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 28.872499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 30.276600 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 30.649799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 30.650899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 30.750700 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 30.834199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 30.835299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 30.875399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		4
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 30.882499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 31.889999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		7
+ 		 	 	 		 		 		7		7
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 31.891099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 31.913199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 31.914299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 32.298800 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 32.312599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 32.315699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 32.829900 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	10	1
+
+Time: 32.900999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 32.903099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 34.307000 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 34.373399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 34.377499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 34.725599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 34.728699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 35.654799 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 35.655899 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 36.312100 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
+Time: 37.624199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 37.625299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 37.626399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 37.627499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 37.628599 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		8		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 37.629699 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 37.854999 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 37.857099 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 37.913199 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		10
+ 		 	 	 		 		 		7		10
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		10
+
+Time: 37.918299 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 38.072399 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		New	5		3		3
+ 		 	 	 		 		 		4		3
+ 		 	 	 		 		 		7		3
+ 		 	 	 		 		 		9		3
+ 		 	 	 		 		 		10		3
+
+Time: 38.077499 sec
+Packet_Type		Length	Src_nid	Src_port	Option	Origin_nid	Destination_nid	Next_hop_nid
+UpdateDataPlaneRouting	796	10	1		Finish	 		 		 
+
+Time: 38.317200 sec
+Packet_Type	Length	Src_nid	Src_port
+Hello		80	3	1
+
