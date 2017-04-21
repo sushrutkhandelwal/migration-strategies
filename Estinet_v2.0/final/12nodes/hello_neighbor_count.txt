@@ -1,4 +1,4 @@
-12nodes.control_plane_receive_log:		Hello Packets: 19	Neighbor Packets: 10
+12nodes.control_plane_receive_log:		Hello Packets: 330	Neighbor Packets: 170
 12nodes.control_plane_receive_packet_N1.log:		Hello Packets: 27	Neighbor Packets: 7
 12nodes.control_plane_receive_packet_N10.log:		Hello Packets: 11	Neighbor Packets: 2
 12nodes.control_plane_receive_packet_N11.log:		Hello Packets: 22	Neighbor Packets: 0
@@ -11,7 +11,7 @@
 12nodes.control_plane_receive_packet_N7.log:		Hello Packets: 21	Neighbor Packets: 3
 12nodes.control_plane_receive_packet_N8.log:		Hello Packets: 18	Neighbor Packets: 3
 12nodes.control_plane_receive_packet_N9.log:		Hello Packets: 43	Neighbor Packets: 0
-12nodes.control_plane_send_log:		Hello Packets: 19	Neighbor Packets: 18
+12nodes.control_plane_send_log:		Hello Packets: 185	Neighbor Packets: 412
 12nodes.control_plane_send_packet_N1.log:		Hello Packets: 14	Neighbor Packets: 27
 12nodes.control_plane_send_packet_N10.log:		Hello Packets: 15	Neighbor Packets: 30
 12nodes.control_plane_send_packet_N11.log:		Hello Packets: 14	Neighbor Packets: 17
