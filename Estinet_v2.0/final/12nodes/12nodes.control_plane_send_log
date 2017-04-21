@@ -1,0 +1,126 @@
+Time: 0.000000 sec
+Packet_Type		Count	Packet_total_lengths
+===========================================
+Time: 1.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			5	400
+===========================================
+Time: 2.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			2	160
+===========================================
+Time: 3.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			20	1600
+NeighborUpdate		58	31552
+UpdateDataPlaneRouting	87	69252
+===========================================
+Time: 4.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			5	400
+NeighborUpdate		33	17952
+UpdateDataPlaneRouting	60	47760
+===========================================
+Time: 5.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			14	1120
+NeighborUpdate		52	28288
+UpdateDataPlaneRouting	38	30248
+===========================================
+Time: 6.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			2	160
+UpdateDataPlaneRouting	4	3184
+===========================================
+Time: 7.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			15	1200
+NeighborUpdate		45	24480
+UpdateDataPlaneRouting	20	15920
+===========================================
+Time: 8.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			1	80
+NeighborUpdate		24	13056
+UpdateDataPlaneRouting	17	13532
+===========================================
+Time: 9.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			16	1280
+NeighborUpdate		37	20128
+UpdateDataPlaneRouting	40	31840
+===========================================
+Time: 10.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			1	80
+NeighborUpdate		23	12512
+UpdateDataPlaneRouting	30	23880
+===========================================
+Time: 11.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			16	1280
+NeighborUpdate		48	26112
+UpdateDataPlaneRouting	48	38208
+===========================================
+Time: 12.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			3	240
+NeighborUpdate		10	5440
+UpdateDataPlaneRouting	51	40596
+===========================================
+Time: 13.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+NeighborUpdate		20	10880
+UpdateDataPlaneRouting	30	23880
+===========================================
+Time: 14.000000 sec
+Packet_Type		Count	Packet_total_lengths
+NeighborUpdate		8	4352
+===========================================
+Time: 15.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+NeighborUpdate		11	5984
+===========================================
+Time: 16.000000 sec
+Packet_Type		Count	Packet_total_lengths
+NeighborUpdate		18	9792
+===========================================
+Time: 17.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+===========================================
+Time: 18.000000 sec
+Packet_Type		Count	Packet_total_lengths
+NeighborUpdate		7	3808
+===========================================
+Time: 19.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+===========================================
+Time: 20.000000 sec
+Packet_Type		Count	Packet_total_lengths
+NeighborUpdate		1	544
+===========================================
+Time: 21.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+NeighborUpdate		2	1088
+===========================================
+Time: 22.000000 sec
+Packet_Type		Count	Packet_total_lengths
+===========================================
+Time: 23.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			12	960
+NeighborUpdate		2	1088
+===========================================
+Time: 24.000000 sec
+Packet_Type		Count	Packet_total_lengths
+===========================================
+Time: 25.000000 sec
+Packet_Type		Count	Packet_total_lengths
+Hello			13	1040
+NeighborUpdate		13	7072
+===========================================
