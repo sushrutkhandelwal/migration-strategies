@@ -1,0 +1,23 @@
+#Node[7]'s Routing Table at time:   1.00
+Routing Table is empty!
+Total routing rules: 0
+#Node[7]'s Routing Table at time:   6.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[9]:1.0.2.9, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 3
+#Node[7]'s Routing Table at time:  11.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[9]:1.0.2.9, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 3
+#Node[7]'s Routing Table at time:  16.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[9]:1.0.2.9, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 3
+#Node[7]'s Routing Table at time:  21.00
+Src_Node[7]:1.0.2.7 -> Dst_Node[3]:1.0.2.3, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[9]:1.0.2.9, Next_Hop[10]:1.0.2.10
+Src_Node[7]:1.0.2.7 -> Dst_Node[10]:1.0.2.10, Next_Hop[10]:1.0.2.10
+Total routing rules: 3
